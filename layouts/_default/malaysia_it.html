@@ -1,0 +1,18 @@
+{{- define "main" }}
+    <div id="articles">
+        {{ $articles_data := .Site.Data.Malaysia_IT }}
+        {{ range $articles_data }}
+        <div class="news-item">
+            <!-- {{ if .site_icon }}
+                <img src="{{ .site_icon }}" alt="{{ .site_name }}" class="site-icon">
+            {{ end }} -->
+            {{ if .thumbnail }}
+                <img src="{{ .thumbnail }}" alt="Thumbnail for {{ .title }}" class="thumbnail">
+            {{ end }}
+            <h2><a href="{{ .link }}">{{ .title }}</a></h2>
+            <p class="date">Date: {{ .date }}</p>
+            <p class="source">Source: {{ .site_name }}</p>
+        </div> 
+        {{ end }}
+    </div>
+{{- end }}

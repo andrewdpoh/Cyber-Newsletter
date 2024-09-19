@@ -1,0 +1,28 @@
+# baseURL: ""
+relativeURLs: "True" #need this for CSS to work
+languageCode: en-us
+title: Cyber Newsletter
+theme: PaperMod
+
+params:
+  css: ["css/styles.css"]
+  
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: Singapore
+    name: Singapore News
+    url: /singapore/
+    weight: 20
+  - identifier: Malaysia
+    name: Malaysia News
+    url: /malaysia/
+    weight: 30
+
+assets:
+  favicon: /favicon.ico
+
+pluralizeListTitles: False
