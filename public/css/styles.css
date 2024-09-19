@@ -1,0 +1,92 @@
+/* INDEX.HTML STYLES */
+.indexHeader {
+	margin-top:20vh;
+}
+
+.indexHeader h3 {
+	font-size:120%;
+}
+
+.indexHeader h1 {
+	font-size:350%;
+}
+
+.cardLink {
+	border: 2px grey solid;
+	border-radius: 8px;
+	padding-top:20px;
+	padding-bottom:20px;
+	width:200px;
+	font-size:20px;
+	margin:auto;
+	margin-top:20px;
+}
+
+.cardLink:hover {
+	background-color: rgb(37, 37, 37);
+}
+
+.textAlignCenter{
+	text-align: center;
+}
+
+/* NEWS PAGES STYLES */
+#articles {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px; /* Space between grid items */
+}
+
+.news-item {
+	/* background-color: rgb(44, 44, 44); */
+    padding: 16px;
+    border: 2px solid #727272;
+	border-radius: 10px;
+}
+
+.site-icon {
+	height:30px;
+}
+
+.thumbnail {
+	height:200px;
+	width:600px;
+	margin-bottom:5px;
+}
+
+.source, .date{
+	font-size:16px;
+}
+
+#articles h2 {
+	font-size: 110%;
+	margin-bottom:6px;
+}
+
+/* use ellipsis for overflow on webkit browsers */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    #articles h2 {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		line-clamp: 3;
+		-webkit-box-orient: vertical;
+	}
+}
+
+@media (max-width: 500px) {
+    #articles {
+        grid-template-columns: 1fr;
+		margin-left:20px;
+		margin-right:20px;
+    }
+	.thumbnail {
+		height:150px;
+		width:300px;
+	}
+	#articles h2 {
+		font-size: 100%;
+	}
+
+}

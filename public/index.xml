@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyber Newsletter</title>
+    <link>/</link>
+    <description>Recent content on Cyber Newsletter</description>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber News for Malaysia&#39;s Finance Sector</title>
+      <link>/malaysia/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/malaysia/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber News for Malaysia&#39;s IT Sector</title>
+      <link>/malaysia/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/malaysia/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber News for Singapore&#39;s Finance Sector</title>
+      <link>/singapore/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/singapore/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber News for Singapore&#39;s IT Sector</title>
+      <link>/singapore/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/singapore/it/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
