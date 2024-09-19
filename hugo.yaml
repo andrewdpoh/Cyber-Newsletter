@@ -1,4 +1,4 @@
-# baseURL: ""
+baseURL: "https://andrewdpoh.github.io/"
 relativeURLs: "True" #need this for CSS to work
 languageCode: en-us
 title: Cyber Newsletter
