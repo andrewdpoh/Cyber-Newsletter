@@ -1,4 +1,4 @@
 ---
-title: "Cyber News for Singapore's Finance Sector"
+title: "Finance"
 layout: "singapore_finance"
 ---

@@ -2,37 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cyber Newsletter</title>
-    <link>https://andrewdpoh.github.io/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Cyber Newsletter</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <atom:link href="https://andrewdpoh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyber News for Malaysia&#39;s Finance Sector</title>
-      <link>https://andrewdpoh.github.io/malaysia/finance/</link>
+      <title>F&amp;B</title>
+      <link>//localhost:1313/malaysia/food_and_beverage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrewdpoh.github.io/malaysia/finance/</guid>
+      <guid>//localhost:1313/malaysia/food_and_beverage/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber News for Malaysia&#39;s IT Sector</title>
-      <link>https://andrewdpoh.github.io/malaysia/it/</link>
+      <title>F&amp;B</title>
+      <link>//localhost:1313/singapore/food_and_beverage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrewdpoh.github.io/malaysia/it/</guid>
+      <guid>//localhost:1313/singapore/food_and_beverage/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber News for Singapore&#39;s Finance Sector</title>
-      <link>https://andrewdpoh.github.io/singapore/finance/</link>
+      <title>Finance</title>
+      <link>//localhost:1313/malaysia/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrewdpoh.github.io/singapore/finance/</guid>
+      <guid>//localhost:1313/malaysia/finance/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber News for Singapore&#39;s IT Sector</title>
-      <link>https://andrewdpoh.github.io/singapore/it/</link>
+      <title>Finance</title>
+      <link>//localhost:1313/singapore/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrewdpoh.github.io/singapore/it/</guid>
+      <guid>//localhost:1313/singapore/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT</title>
+      <link>//localhost:1313/malaysia/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/malaysia/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT</title>
+      <link>//localhost:1313/singapore/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/singapore/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Profit</title>
+      <link>//localhost:1313/malaysia/nonprofit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/malaysia/nonprofit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Profit</title>
+      <link>//localhost:1313/singapore/nonprofit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/singapore/nonprofit/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,11 @@
 {{- define "main" }}
-    <div id="articles">
-        {{ $articles_data := .Site.Data.Singapore_Finance }}
+	<div class="summary">
+		{{ $summary := .Site.Data.singapore_finance.summary}}
+		<h2>Weekly Summary</h2>
+		<p>{{ $summary }}</p>
+	</div>
+    <div class="articles">
+        {{ $articles_data := .Site.Data.singapore_finance.articles }}
         {{ range $articles_data }}
         <div class="news-item">
             <!-- {{ if .site_icon }}

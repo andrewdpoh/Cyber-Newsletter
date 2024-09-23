@@ -1,4 +1,4 @@
 ---
-title: "Cyber News for Malaysia's Finance Sector"
+title: "Finance"
 layout: "malaysia_finance"
 ---

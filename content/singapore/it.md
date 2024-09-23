@@ -1,4 +1,4 @@
 ---
-title: "Cyber News for Singapore's IT Sector"
+title: "IT"
 layout: "singapore_it"
 ---

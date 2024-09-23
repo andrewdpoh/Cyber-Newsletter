@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewdpoh.github.io/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/malaysia/finance/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/malaysia/it/</loc>
+    <loc>//localhost:1313/malaysia/food_and_beverage/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/singapore/finance/</loc>
+    <loc>//localhost:1313/singapore/food_and_beverage/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/singapore/it/</loc>
+    <loc>//localhost:1313/malaysia/finance/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/</loc>
+    <loc>//localhost:1313/singapore/finance/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/malaysia/</loc>
+    <loc>//localhost:1313/malaysia/it/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/singapore/</loc>
+    <loc>//localhost:1313/singapore/it/</loc>
   </url><url>
-    <loc>https://andrewdpoh.github.io/tags/</loc>
+    <loc>//localhost:1313/malaysia/</loc>
+  </url><url>
+    <loc>//localhost:1313/malaysia/nonprofit/</loc>
+  </url><url>
+    <loc>//localhost:1313/singapore/nonprofit/</loc>
+  </url><url>
+    <loc>//localhost:1313/singapore/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

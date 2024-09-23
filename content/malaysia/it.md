@@ -1,4 +1,4 @@
 ---
-title: "Cyber News for Malaysia's IT Sector"
+title: "IT"
 layout: "malaysia_it"
 ---
