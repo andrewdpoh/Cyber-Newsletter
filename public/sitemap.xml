@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:1313/malaysia/food_and_beverage/</loc>
+    <loc>/malaysia/food_and_beverage/</loc>
   </url><url>
-    <loc>//localhost:1313/singapore/food_and_beverage/</loc>
+    <loc>/singapore/food_and_beverage/</loc>
   </url><url>
-    <loc>//localhost:1313/malaysia/finance/</loc>
+    <loc>/malaysia/finance/</loc>
   </url><url>
-    <loc>//localhost:1313/singapore/finance/</loc>
+    <loc>/singapore/finance/</loc>
   </url><url>
-    <loc>//localhost:1313/malaysia/it/</loc>
+    <loc>/malaysia/it/</loc>
   </url><url>
-    <loc>//localhost:1313/singapore/it/</loc>
+    <loc>/singapore/it/</loc>
   </url><url>
-    <loc>//localhost:1313/malaysia/</loc>
+    <loc>/malaysia/</loc>
   </url><url>
-    <loc>//localhost:1313/malaysia/nonprofit/</loc>
+    <loc>/malaysia/media/</loc>
   </url><url>
-    <loc>//localhost:1313/singapore/nonprofit/</loc>
+    <loc>/singapore/media/</loc>
   </url><url>
-    <loc>//localhost:1313/singapore/</loc>
+    <loc>/malaysia/nonprofit/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/singapore/nonprofit/</loc>
+  </url><url>
+    <loc>/singapore/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

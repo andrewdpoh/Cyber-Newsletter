@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Singapore on Cyber Newsletter</title>
-    <link>//localhost:1313/singapore/</link>
+    <link>/singapore/</link>
     <description>Recent content in Singapore on Cyber Newsletter</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/singapore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/singapore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F&amp;B</title>
-      <link>//localhost:1313/singapore/food_and_beverage/</link>
+      <link>/singapore/food_and_beverage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/singapore/food_and_beverage/</guid>
+      <guid>/singapore/food_and_beverage/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>//localhost:1313/singapore/finance/</link>
+      <link>/singapore/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/singapore/finance/</guid>
+      <guid>/singapore/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>IT</title>
-      <link>//localhost:1313/singapore/it/</link>
+      <link>/singapore/it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/singapore/it/</guid>
+      <guid>/singapore/it/</guid>
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>//localhost:1313/singapore/media/</link>
+      <link>/singapore/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/singapore/media/</guid>
+      <guid>/singapore/media/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Profit</title>
-      <link>//localhost:1313/singapore/nonprofit/</link>
+      <link>/singapore/nonprofit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/singapore/nonprofit/</guid>
+      <guid>/singapore/nonprofit/</guid>
       <description></description>
     </item>
   </channel>
