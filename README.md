@@ -1,6 +1,6 @@
 # Cyber Newsletter
 
-Visit https://andrewdpoh.github.io/Cyber-Newsletter
+Visit https://andrewdpoh.github.io/Old-Cyber-Newsletter
 
 ## To run the site locally:
 
